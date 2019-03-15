@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default">
+  <PHPCodeStyleSettings>
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+  </PHPCodeStyleSettings>
+</code_scheme>
